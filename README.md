@@ -116,9 +116,7 @@ analyst would present this kind of work.
 
 ## About
 
-Built by [Your Name], CAMS-certified compliance analyst, as a
+Built by Biswajit Das, CAMS-certified compliance analyst, as a
 portfolio piece — a deliberately different toolset from the SQL
 version of the same project, to show the underlying logic transfers
-across tools. See also: [link to SQL version], [link to the
-Sanctions & PEP screening project], and [link to Medium AML article
-series].
+across tools. 
