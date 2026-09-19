@@ -1,0 +1,191 @@
+transaction_id,account_id,customer_name,txn_date,txn_time,amount,txn_type,counterparty,counterparty_country,channel
+1,1010,Alex Rowe,2026-03-03 00:00:00,10:10:00,9800,deposit,Cash,US,branch
+2,1010,Alex Rowe,2026-03-04 00:00:00,10:11:00,9450,deposit,Cash,US,branch
+3,1010,Alex Rowe,2026-03-05 00:00:00,10:12:00,9700,deposit,Cash,US,branch
+4,1010,Alex Rowe,2026-03-06 00:00:00,10:13:00,9600,deposit,Cash,US,branch
+5,1010,Alex Rowe,2026-03-10 00:00:00,14:00:00,120.5,withdrawal,ATM,US,atm
+6,1020,Priya Nair,2026-04-05 00:00:00,09:00:00,48000,wire_in,Offshore Holdings LLC,AE,wire
+7,1020,Priya Nair,2026-04-05 00:00:00,13:45:00,47500,wire_out,Global Trading Co,HK,wire
+8,1020,Priya Nair,2026-04-20 00:00:00,11:00:00,300.0,deposit,Payroll,US,online
+9,1030,Daniel Kim,2026-05-11,09:00:00,150,withdrawal,POS,US,online
+10,1030,Daniel Kim,2026-05-11,09:17:00,150,withdrawal,POS,US,online
+11,1030,Daniel Kim,2026-05-11,09:34:00,90,withdrawal,POS,US,online
+12,1030,Daniel Kim,2026-05-11,09:51:00,220,withdrawal,POS,US,online
+13,1030,Daniel Kim,2026-05-11,10:08:00,220,withdrawal,POS,US,online
+14,1030,Daniel Kim,2026-05-11,10:25:00,220,withdrawal,POS,US,online
+15,1030,Daniel Kim,2026-05-11,10:42:00,150,withdrawal,POS,US,online
+16,1030,Daniel Kim,2026-05-11,10:59:00,75,withdrawal,POS,US,online
+17,1030,Daniel Kim,2026-05-11,11:16:00,150,withdrawal,POS,US,online
+18,1030,Daniel Kim,2026-05-11,11:33:00,75,withdrawal,POS,US,online
+19,1030,Daniel Kim,2026-05-11,11:50:00,300,withdrawal,POS,US,online
+20,1030,Daniel Kim,2026-05-11,12:07:00,150,withdrawal,POS,US,online
+21,1030,Daniel Kim,2026-05-11,12:24:00,150,withdrawal,POS,US,online
+22,1030,Daniel Kim,2026-05-11,12:41:00,150,withdrawal,POS,US,online
+23,1040,Omar Haddad,2026-06-02 00:00:00,16:00:00,20000,wire_out,Silverline Trading FZE,AE,wire
+24,1040,Omar Haddad,2026-06-09 00:00:00,16:00:00,20000,wire_out,Silverline Trading FZE,AE,wire
+25,1040,Omar Haddad,2026-06-16 00:00:00,16:00:00,20000,wire_out,Silverline Trading FZE,AE,wire
+26,1040,Omar Haddad,2026-06-23 00:00:00,16:00:00,20000,wire_out,Silverline Trading FZE,AE,wire
+27,1050,Maria Gomez,2026-01-17 00:00:00,00:00:00,648.73,withdrawal,Grocery Store,US,branch
+28,1050,Maria Gomez,2026-01-27 00:00:00,00:00:00,296.38,deposit,Landlord,US,atm
+29,1050,Maria Gomez,2026-02-01 00:00:00,00:00:00,2919.88,withdrawal,Payroll,US,branch
+30,1050,Maria Gomez,2026-02-05 00:00:00,00:00:00,754.95,withdrawal,ATM,US,atm
+31,1050,Maria Gomez,2026-02-28 00:00:00,00:00:00,2468.97,withdrawal,Utility Co,US,atm
+32,1050,Maria Gomez,2026-03-01 00:00:00,00:00:00,1525.96,deposit,ATM,US,online
+33,1050,Maria Gomez,2026-03-17 00:00:00,00:00:00,2491.63,withdrawal,ATM,US,online
+34,1050,Maria Gomez,2026-04-01 00:00:00,00:00:00,644.33,withdrawal,Payroll,US,branch
+35,1050,Maria Gomez,2026-04-08 00:00:00,00:00:00,824.44,deposit,Landlord,US,online
+36,1050,Maria Gomez,2026-04-19 00:00:00,00:00:00,1033.95,deposit,Grocery Store,US,atm
+37,1050,Maria Gomez,2026-04-27 00:00:00,00:00:00,1914.34,withdrawal,Grocery Store,US,atm
+38,1050,Maria Gomez,2026-05-08 00:00:00,00:00:00,1198.98,withdrawal,Grocery Store,US,atm
+39,1050,Maria Gomez,2026-05-31 00:00:00,00:00:00,849.01,deposit,Grocery Store,US,branch
+40,1050,Maria Gomez,2026-06-04 00:00:00,00:00:00,808.27,deposit,Utility Co,US,branch
+41,1050,Maria Gomez,2026-06-12 00:00:00,00:00:00,529.99,deposit,Grocery Store,US,atm
+42,1050,Maria Gomez,2026-06-30 00:00:00,00:00:00,227.27,deposit,Landlord,US,online
+43,1050,Maria Gomez,2026-07-03 00:00:00,00:00:00,1956.66,withdrawal,Grocery Store,US,atm
+44,1050,Maria Gomez,2026-08-07 00:00:00,00:00:00,713.72,deposit,Utility Co,US,atm
+45,1060,John Becker,2026-01-15 00:00:00,00:00:00,737.8,deposit,Payroll,US,branch
+46,1060,John Becker,2026-01-19 00:00:00,00:00:00,1552.19,withdrawal,Utility Co,US,online
+47,1060,John Becker,2026-01-24 00:00:00,00:00:00,2272.23,deposit,Grocery Store,US,branch
+48,1060,John Becker,2026-02-10 00:00:00,00:00:00,2380.4,withdrawal,ATM,US,online
+49,1060,John Becker,2026-02-27 00:00:00,00:00:00,210.8,deposit,ATM,US,branch
+50,1060,John Becker,2026-02-28 00:00:00,00:00:00,1773.55,deposit,Payroll,US,branch
+51,1060,John Becker,2026-03-17 00:00:00,00:00:00,1315.6,withdrawal,Payroll,US,branch
+52,1060,John Becker,2026-04-09 00:00:00,00:00:00,1157.23,withdrawal,ATM,US,atm
+53,1060,John Becker,2026-04-13 00:00:00,00:00:00,1098.75,deposit,ATM,US,atm
+54,1060,John Becker,2026-04-21 00:00:00,00:00:00,1075.81,withdrawal,Utility Co,US,branch
+55,1060,John Becker,2026-05-02 00:00:00,00:00:00,2841.61,deposit,Landlord,US,branch
+56,1060,John Becker,2026-05-05 00:00:00,00:00:00,2451.75,deposit,Grocery Store,US,branch
+57,1060,John Becker,2026-05-06 00:00:00,00:00:00,78.04,withdrawal,Landlord,US,online
+58,1060,John Becker,2026-05-19 00:00:00,00:00:00,414.29,withdrawal,Grocery Store,US,atm
+59,1060,John Becker,2026-06-11 00:00:00,00:00:00,195.44,deposit,Payroll,US,atm
+60,1060,John Becker,2026-06-16 00:00:00,00:00:00,1132.79,withdrawal,Payroll,US,online
+61,1060,John Becker,2026-06-26 00:00:00,00:00:00,619.43,withdrawal,Utility Co,US,branch
+62,1060,John Becker,2026-07-15 00:00:00,00:00:00,501.42,deposit,ATM,US,atm
+63,1060,John Becker,2026-07-26 00:00:00,00:00:00,1233.04,deposit,Payroll,US,branch
+64,1060,John Becker,2026-08-11 00:00:00,00:00:00,1883.39,deposit,Grocery Store,US,atm
+65,1060,John Becker,2026-08-12 00:00:00,00:00:00,1827.65,deposit,ATM,US,branch
+66,1060,John Becker,2026-08-13 00:00:00,00:00:00,2164.65,deposit,ATM,US,online
+67,1060,John Becker,2026-08-15 00:00:00,00:00:00,1620.17,withdrawal,Landlord,US,online
+68,1060,John Becker,2026-09-06 00:00:00,00:00:00,1668.61,deposit,Payroll,US,branch
+69,1070,Wei Zhang,2026-01-21 00:00:00,00:00:00,2557.0,deposit,ATM,US,online
+70,1070,Wei Zhang,2026-01-26 00:00:00,00:00:00,170.75,deposit,Payroll,US,online
+71,1070,Wei Zhang,2026-02-12 00:00:00,00:00:00,1231.11,withdrawal,Grocery Store,US,atm
+72,1070,Wei Zhang,2026-02-18 00:00:00,00:00:00,1618.13,deposit,Utility Co,US,online
+73,1070,Wei Zhang,2026-03-05 00:00:00,00:00:00,1745.18,deposit,ATM,US,online
+74,1070,Wei Zhang,2026-03-09 00:00:00,00:00:00,2781.02,withdrawal,Landlord,US,atm
+75,1070,Wei Zhang,2026-03-13 00:00:00,00:00:00,1398.63,deposit,Utility Co,US,branch
+76,1070,Wei Zhang,2026-03-17 00:00:00,00:00:00,668.75,deposit,ATM,US,branch
+77,1070,Wei Zhang,2026-05-19 00:00:00,00:00:00,201.65,withdrawal,Payroll,US,online
+78,1070,Wei Zhang,2026-05-30 00:00:00,00:00:00,1440.83,deposit,Payroll,US,branch
+79,1070,Wei Zhang,2026-06-22 00:00:00,00:00:00,1967.3,deposit,Payroll,US,atm
+80,1070,Wei Zhang,2026-06-22 00:00:00,00:00:00,2588.22,withdrawal,Payroll,US,branch
+81,1070,Wei Zhang,2026-06-28 00:00:00,00:00:00,2872.81,withdrawal,Grocery Store,US,online
+82,1070,Wei Zhang,2026-07-06 00:00:00,00:00:00,1031.12,deposit,Grocery Store,US,online
+83,1070,Wei Zhang,2026-08-20 00:00:00,00:00:00,194.73,withdrawal,Payroll,US,atm
+84,1080,Sara Ali,2026-01-11 00:00:00,00:00:00,938.61,deposit,Landlord,US,online
+85,1080,Sara Ali,2026-01-29 00:00:00,00:00:00,244.23,deposit,ATM,US,online
+86,1080,Sara Ali,2026-02-03 00:00:00,00:00:00,2021.64,withdrawal,Utility Co,US,atm
+87,1080,Sara Ali,2026-02-24 00:00:00,00:00:00,1527.54,deposit,Landlord,US,online
+88,1080,Sara Ali,2026-03-06 00:00:00,00:00:00,2717.9,deposit,Payroll,US,branch
+89,1080,Sara Ali,2026-03-09 00:00:00,00:00:00,363.98,deposit,ATM,US,online
+90,1080,Sara Ali,2026-03-11 00:00:00,00:00:00,859.63,deposit,Landlord,US,online
+91,1080,Sara Ali,2026-04-19 00:00:00,00:00:00,2491.46,deposit,Payroll,US,atm
+92,1080,Sara Ali,2026-04-24 00:00:00,00:00:00,1664.01,withdrawal,ATM,US,online
+93,1080,Sara Ali,2026-05-16 00:00:00,00:00:00,43.31,withdrawal,Payroll,US,online
+94,1080,Sara Ali,2026-06-09 00:00:00,00:00:00,2995.39,deposit,Payroll,US,branch
+95,1080,Sara Ali,2026-06-18 00:00:00,00:00:00,1759.34,withdrawal,Landlord,US,online
+96,1080,Sara Ali,2026-06-21 00:00:00,00:00:00,2154.25,deposit,Landlord,US,atm
+97,1080,Sara Ali,2026-06-24 00:00:00,00:00:00,763.6,deposit,Landlord,US,branch
+98,1080,Sara Ali,2026-06-25 00:00:00,00:00:00,1910.03,withdrawal,ATM,US,atm
+99,1080,Sara Ali,2026-07-17 00:00:00,00:00:00,409.84,withdrawal,Grocery Store,US,branch
+100,1080,Sara Ali,2026-08-02 00:00:00,00:00:00,1638.79,withdrawal,ATM,US,branch
+101,1080,Sara Ali,2026-08-02 00:00:00,00:00:00,1120.26,deposit,Utility Co,US,online
+102,1080,Sara Ali,2026-08-14 00:00:00,00:00:00,747.97,withdrawal,Grocery Store,US,atm
+103,1080,Sara Ali,2026-08-15 00:00:00,00:00:00,2626.64,deposit,Grocery Store,US,online
+104,1080,Sara Ali,2026-08-26 00:00:00,00:00:00,2260.56,deposit,Payroll,US,atm
+105,1090,Tom Wallace,2026-01-10 00:00:00,00:00:00,343.04,withdrawal,Landlord,US,branch
+106,1090,Tom Wallace,2026-01-18 00:00:00,00:00:00,2847.65,withdrawal,ATM,US,atm
+107,1090,Tom Wallace,2026-02-02 00:00:00,00:00:00,591.68,withdrawal,Grocery Store,US,branch
+108,1090,Tom Wallace,2026-02-18 00:00:00,00:00:00,779.07,withdrawal,Payroll,US,branch
+109,1090,Tom Wallace,2026-02-26 00:00:00,00:00:00,614.73,withdrawal,Landlord,US,atm
+110,1090,Tom Wallace,2026-06-18 00:00:00,00:00:00,595.53,withdrawal,Landlord,US,online
+111,1090,Tom Wallace,2026-06-19 00:00:00,00:00:00,2547.09,withdrawal,ATM,US,atm
+112,1090,Tom Wallace,2026-06-20 00:00:00,00:00:00,1237.01,withdrawal,Landlord,US,branch
+113,1090,Tom Wallace,2026-06-23 00:00:00,00:00:00,2943.83,withdrawal,Payroll,US,online
+114,1090,Tom Wallace,2026-07-21 00:00:00,00:00:00,2109.81,withdrawal,Payroll,US,atm
+115,1090,Tom Wallace,2026-07-21 00:00:00,00:00:00,954.76,deposit,Utility Co,US,branch
+116,1090,Tom Wallace,2026-07-25 00:00:00,00:00:00,2016.32,deposit,Landlord,US,online
+117,1090,Tom Wallace,2026-07-30 00:00:00,00:00:00,2390.13,deposit,Grocery Store,US,online
+118,1090,Tom Wallace,2026-08-13 00:00:00,00:00:00,2911.79,deposit,ATM,US,atm
+119,1090,Tom Wallace,2026-08-14 00:00:00,00:00:00,1248.64,deposit,Landlord,US,atm
+120,1090,Tom Wallace,2026-08-25 00:00:00,00:00:00,2423.4,deposit,Landlord,US,atm
+121,1090,Tom Wallace,2026-09-05 00:00:00,00:00:00,2324.51,withdrawal,ATM,US,atm
+122,1100,Fatima Noor,2026-01-12 00:00:00,00:00:00,749.63,withdrawal,ATM,US,online
+123,1100,Fatima Noor,2026-01-21 00:00:00,00:00:00,432.35,deposit,Utility Co,US,branch
+124,1100,Fatima Noor,2026-01-22 00:00:00,00:00:00,865.68,withdrawal,Payroll,US,online
+125,1100,Fatima Noor,2026-02-09 00:00:00,00:00:00,2125.13,deposit,Utility Co,US,atm
+126,1100,Fatima Noor,2026-02-23 00:00:00,00:00:00,1301.07,withdrawal,Utility Co,US,atm
+127,1100,Fatima Noor,2026-02-26 00:00:00,00:00:00,544.14,withdrawal,Payroll,US,branch
+128,1100,Fatima Noor,2026-03-05 00:00:00,00:00:00,2754.06,deposit,Utility Co,US,online
+129,1100,Fatima Noor,2026-03-11 00:00:00,00:00:00,1318.79,deposit,Utility Co,US,atm
+130,1100,Fatima Noor,2026-03-15 00:00:00,00:00:00,718.79,withdrawal,Landlord,US,branch
+131,1100,Fatima Noor,2026-03-19 00:00:00,00:00:00,1230.1,deposit,Landlord,US,atm
+132,1100,Fatima Noor,2026-03-26 00:00:00,00:00:00,1636.98,withdrawal,Payroll,US,online
+133,1100,Fatima Noor,2026-04-13 00:00:00,00:00:00,747.07,deposit,Payroll,US,atm
+134,1100,Fatima Noor,2026-04-24 00:00:00,00:00:00,2033.37,withdrawal,Grocery Store,US,branch
+135,1100,Fatima Noor,2026-04-27 00:00:00,00:00:00,1255.03,deposit,Utility Co,US,atm
+136,1100,Fatima Noor,2026-05-03 00:00:00,00:00:00,37.57,withdrawal,Landlord,US,atm
+137,1100,Fatima Noor,2026-06-10 00:00:00,00:00:00,732.95,withdrawal,Payroll,US,branch
+138,1100,Fatima Noor,2026-06-22 00:00:00,00:00:00,945.05,deposit,Grocery Store,US,online
+139,1100,Fatima Noor,2026-07-08 00:00:00,00:00:00,1647.47,deposit,Utility Co,US,online
+140,1100,Fatima Noor,2026-07-12 00:00:00,00:00:00,756.77,withdrawal,ATM,US,atm
+141,1100,Fatima Noor,2026-07-25 00:00:00,00:00:00,1404.64,withdrawal,Utility Co,US,branch
+142,1100,Fatima Noor,2026-07-28 00:00:00,00:00:00,2163.44,withdrawal,ATM,US,atm
+143,1100,Fatima Noor,2026-08-02 00:00:00,00:00:00,1272.03,deposit,ATM,US,atm
+144,1100,Fatima Noor,2026-08-07 00:00:00,00:00:00,2677.09,withdrawal,ATM,US,branch
+145,1100,Fatima Noor,2026-08-18 00:00:00,00:00:00,494.29,withdrawal,Utility Co,US,atm
+146,1110,Liam O'Connor,2026-01-18 00:00:00,00:00:00,2348.07,deposit,Payroll,US,online
+147,1110,Liam O'Connor,2026-01-28 00:00:00,00:00:00,1744.48,withdrawal,ATM,US,branch
+148,1110,Liam O'Connor,2026-02-15 00:00:00,00:00:00,2206.71,withdrawal,ATM,US,branch
+149,1110,Liam O'Connor,2026-02-16 00:00:00,00:00:00,169.85,withdrawal,Landlord,US,online
+150,1110,Liam O'Connor,2026-02-21 00:00:00,00:00:00,2520.9,deposit,Grocery Store,US,online
+151,1110,Liam O'Connor,2026-03-04 00:00:00,00:00:00,2256.42,withdrawal,Landlord,US,online
+152,1110,Liam O'Connor,2026-03-06 00:00:00,00:00:00,2508.03,withdrawal,Payroll,US,branch
+153,1110,Liam O'Connor,2026-03-07 00:00:00,00:00:00,2305.36,deposit,ATM,US,branch
+154,1110,Liam O'Connor,2026-03-24 00:00:00,00:00:00,2558.11,deposit,Landlord,US,atm
+155,1110,Liam O'Connor,2026-03-30 00:00:00,00:00:00,1607.58,withdrawal,Payroll,US,branch
+156,1110,Liam O'Connor,2026-04-01 00:00:00,00:00:00,2397.54,withdrawal,Landlord,US,branch
+157,1110,Liam O'Connor,2026-04-21 00:00:00,00:00:00,2883.15,withdrawal,Grocery Store,US,atm
+158,1110,Liam O'Connor,2026-04-27 00:00:00,00:00:00,994.0,withdrawal,Landlord,US,atm
+159,1110,Liam O'Connor,2026-05-02 00:00:00,00:00:00,2014.99,deposit,Utility Co,US,branch
+160,1110,Liam O'Connor,2026-05-07 00:00:00,00:00:00,2555.84,deposit,Utility Co,US,online
+161,1110,Liam O'Connor,2026-05-19 00:00:00,00:00:00,175.22,withdrawal,Grocery Store,US,branch
+162,1110,Liam O'Connor,2026-06-01 00:00:00,00:00:00,2078.03,deposit,Payroll,US,branch
+163,1110,Liam O'Connor,2026-06-09 00:00:00,00:00:00,1611.69,withdrawal,ATM,US,branch
+164,1110,Liam O'Connor,2026-06-15 00:00:00,00:00:00,1036.87,withdrawal,Utility Co,US,online
+165,1110,Liam O'Connor,2026-06-19 00:00:00,00:00:00,100.76,withdrawal,Grocery Store,US,atm
+166,1110,Liam O'Connor,2026-06-23 00:00:00,00:00:00,2398.46,deposit,Utility Co,US,online
+167,1110,Liam O'Connor,2026-07-17 00:00:00,00:00:00,918.72,deposit,ATM,US,online
+168,1110,Liam O'Connor,2026-07-18 00:00:00,00:00:00,1460.82,withdrawal,ATM,US,atm
+169,1110,Liam O'Connor,2026-08-21 00:00:00,00:00:00,2875.36,withdrawal,Grocery Store,US,online
+170,1110,Liam O'Connor,2026-09-04 00:00:00,00:00:00,2248.82,deposit,Grocery Store,US,atm
+171,1120,Grace Ito,2026-01-04 00:00:00,12:00:00,5810.14,deposit,Consulting Fees,US,wire
+172,1120,Grace Ito,2026-01-26 00:00:00,12:00:00,6744.71,withdrawal,Consulting Fees,US,wire
+173,1120,Grace Ito,2026-02-19 00:00:00,12:00:00,2122.88,withdrawal,Consulting Fees,US,wire
+174,1120,Grace Ito,2026-02-26 00:00:00,12:00:00,3533.01,deposit,Consulting Fees,US,wire
+175,1120,Grace Ito,2026-02-28 00:00:00,12:00:00,3206.61,withdrawal,Consulting Fees,US,wire
+176,1120,Grace Ito,2026-03-03 00:00:00,12:00:00,5900.56,withdrawal,Consulting Fees,US,wire
+177,1120,Grace Ito,2026-03-12 00:00:00,12:00:00,5934.39,withdrawal,Consulting Fees,US,wire
+178,1120,Grace Ito,2026-03-12 00:00:00,12:00:00,841.37,deposit,Consulting Fees,US,wire
+179,1120,Grace Ito,2026-03-20 00:00:00,12:00:00,5479.7,withdrawal,Consulting Fees,US,wire
+180,1120,Grace Ito,2026-03-20 00:00:00,12:00:00,2385.53,deposit,Consulting Fees,US,wire
+181,1120,Grace Ito,2026-04-01 00:00:00,12:00:00,5771.41,withdrawal,Consulting Fees,US,wire
+182,1120,Grace Ito,2026-04-19 00:00:00,12:00:00,7974.74,withdrawal,Consulting Fees,US,wire
+183,1120,Grace Ito,2026-05-02 00:00:00,12:00:00,4651.05,withdrawal,Consulting Fees,US,wire
+184,1120,Grace Ito,2026-05-13 00:00:00,12:00:00,7610.47,deposit,Consulting Fees,US,wire
+185,1120,Grace Ito,2026-05-23 00:00:00,12:00:00,6186.23,withdrawal,Consulting Fees,US,wire
+186,1120,Grace Ito,2026-06-15 00:00:00,12:00:00,5838.82,withdrawal,Consulting Fees,US,wire
+187,1120,Grace Ito,2026-06-29 00:00:00,12:00:00,7100.81,deposit,Consulting Fees,US,wire
+188,1120,Grace Ito,2026-07-04 00:00:00,12:00:00,1944.38,deposit,Consulting Fees,US,wire
+189,1120,Grace Ito,2026-07-10 00:00:00,12:00:00,4518.98,deposit,Consulting Fees,US,wire
+190,1120,Grace Ito,2026-07-22 00:00:00,12:00:00,629.32,withdrawal,Consulting Fees,US,wire

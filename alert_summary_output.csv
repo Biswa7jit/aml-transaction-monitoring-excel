@@ -1,0 +1,13 @@
+account_id,customer_name,is_pep,structuring_deposit_count,round_dollar_wire_count,has_rapid_outflow_match,max_daily_txn_count,risk_score,disposition
+1010,Alex Rowe,0,4,0,0,1,30,MEDIUM - analyst review
+1020,Priya Nair,0,0,0,1,2,25,MEDIUM - analyst review
+1030,Daniel Kim,0,0,0,0,14,15,LOW - monitor
+1040,Omar Haddad,0,0,4,0,1,20,MEDIUM - analyst review
+1050,Maria Gomez,0,0,0,0,1,0,LOW - monitor
+1060,John Becker,0,0,0,0,1,0,LOW - monitor
+1070,Wei Zhang,0,0,0,0,2,0,LOW - monitor
+1080,Sara Ali,0,0,0,0,2,0,LOW - monitor
+1090,Tom Wallace,0,0,0,0,2,0,LOW - monitor
+1100,Fatima Noor,0,0,0,0,1,0,LOW - monitor
+1110,Liam O'Connor,0,0,0,0,1,0,LOW - monitor
+1120,Grace Ito,1,0,0,0,2,10,LOW - monitor

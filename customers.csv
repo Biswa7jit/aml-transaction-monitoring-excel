@@ -1,0 +1,13 @@
+customer_id,account_id,customer_name,country,is_pep,onboarding_date
+101,1010,Alex Rowe,US,0,2023-01-15
+102,1020,Priya Nair,US,0,2022-11-02
+103,1030,Daniel Kim,US,0,2024-03-10
+104,1040,Omar Haddad,US,0,2021-07-22
+105,1050,Maria Gomez,US,0,2020-05-01
+106,1060,John Becker,US,0,2019-09-14
+107,1070,Wei Zhang,US,0,2023-02-18
+108,1080,Sara Ali,US,0,2022-06-30
+109,1090,Tom Wallace,US,0,2021-01-11
+110,1100,Fatima Noor,US,0,2020-12-05
+111,1110,Liam O'Connor,US,0,2023-08-09
+112,1120,Grace Ito,US,1,2018-04-20
