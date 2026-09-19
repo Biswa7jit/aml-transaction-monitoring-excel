@@ -1,10 +1,7 @@
-# AML Transaction Monitoring — No-Code (Excel) Version
+# AML Transaction Monitoring With Excel
 
 A working AML transaction monitoring build using **only spreadsheet
-formulas — no Python, no SQL**. This is a companion project to a SQL
-version of the same case: same typologies, same detection logic,
-same scoring approach, expressed entirely through Excel formulas
-instead of code.
+formulas — no Python, no SQL**.
 
 **Why this version exists:** many compliance teams — especially at
 smaller institutions, or for one-off investigations — still do
