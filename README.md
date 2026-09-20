@@ -94,11 +94,7 @@ the seven normal accounts included specifically to test that:
 
 ## A documented simplification
 
-The SQL version's structuring query uses a true **rolling 7-day
-window** (any 3+ qualifying deposits within any 7-day span). Pure
-Excel formulas can't easily express a rolling window without array
-formulas or a helper table, so this version flags 3+ qualifying
-deposits across the account's **full history** instead — a
+This version flags 3+ qualifying deposits across the account's **full history** instead — a
 deliberate, disclosed trade-off. Documenting a limitation like this,
 rather than glossing over it, is itself part of how a compliance
 analyst would present this kind of work.
