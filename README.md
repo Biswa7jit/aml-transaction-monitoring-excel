@@ -42,8 +42,6 @@ cell to see the live formula that produced it.
 
 ## Typologies detected
 
-Same four as the SQL version:
-
 1. **Structuring** — deposits just under the $10,000 CTR reporting
    threshold, repeated.
 2. **Rapid in-out / pass-through** — a large inbound wire followed
