@@ -88,9 +88,9 @@ the seven normal accounts included specifically to test that:
 | 1030 | Daniel Kim | High velocity (14 txns/day) | 15 | LOW |
 | 1120 | Grace Ito | PEP (EDD) | 10 | LOW |
 
-![Transactions with suspicious rows highlighted](screenshots/transactions_highlighted.png)
+![Transactions with suspicious rows highlighted](transactions_highlighted.png)
 
-![Alert Summary risk scoring](screenshots/alert_summary.png)
+![Alert Summary risk scoring](alert_summary.png)
 
 ## A documented simplification
 
